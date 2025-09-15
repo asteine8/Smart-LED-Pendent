@@ -229,28 +229,39 @@
 		(uuid "f44d0fed-678f-423d-9459-2b1ac9d08dea")
 	)
 	(pad "1" smd rect
-		(at -0.329999 -0.329999)
-		(size 0.3302 0.3302)
+		(at -0.449999 -0.449999)
+		(size 0.499998 0.499998)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "d731f73d-5430-403e-8150-f13e7bb4c4e0")
 	)
 	(pad "2" smd rect
-		(at -0.329999 0.329999)
-		(size 0.3302 0.3302)
+		(at -0.449999 0.449999)
+		(size 0.499998 0.499998)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "858a52a5-3eaf-4207-be3a-7ba298c9a8ec")
 	)
 	(pad "3" smd rect
-		(at 0.329999 0.329999)
-		(size 0.3302 0.3302)
+		(at 0.449999 0.449999)
+		(size 0.499998 0.499998)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "7dfb32cf-84a9-4607-a7d1-da4bbba7737b")
 	)
 	(pad "4" smd rect
-		(at 0.329999 -0.329999)
-		(size 0.3302 0.3302)
+		(at 0.449999 -0.449999)
+		(size 0.499998 0.499998)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "9555aeb1-a07a-412d-b879-faa012671638")
 	)
 	(embedded_fonts no)
+	(model "C:/Users/astei/Downloads/UHD111A_FKA_C3K23E1L3VG5ZB3Z3/SMD4_UHD111A-FKA_CRW.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
