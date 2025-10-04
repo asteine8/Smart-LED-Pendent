@@ -3327,6 +3327,15 @@
 		(uuid "1d5f02b3-be52-4323-b0ac-517e2d36568a")
 	)
 	(bus_entry
+		(at 276.86 152.4)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1da5e928-7034-46e0-8f08-9e9d01e842c1")
+	)
+	(bus_entry
 		(at 276.86 147.32)
 		(size 2.54 -2.54)
 		(stroke
@@ -3415,15 +3424,6 @@
 			(type default)
 		)
 		(uuid "305e5126-2b9f-4b8c-a098-c94766ae94f2")
-	)
-	(bus_entry
-		(at 276.86 152.4)
-		(size 2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "36d663df-8c33-4083-9163-19174d1fb4a8")
 	)
 	(bus_entry
 		(at 276.86 205.74)
@@ -3732,15 +3732,6 @@
 		(uuid "d962e17d-60fc-4d29-b168-899e33e6edbb")
 	)
 	(bus_entry
-		(at 276.86 162.56)
-		(size 2.54 -2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dce72a59-d72c-465b-973a-fc40ec38adb7")
-	)
-	(bus_entry
 		(at 30.48 144.78)
 		(size -2.54 -2.54)
 		(stroke
@@ -3802,6 +3793,15 @@
 			(type default)
 		)
 		(uuid "f83b3ac7-20a7-4155-ae15-13668f7171c4")
+	)
+	(bus_entry
+		(at 276.86 162.56)
+		(size 2.54 -2.54)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8ad641b-4fbb-4cae-aba8-f839a1198553")
 	)
 	(bus_entry
 		(at 63.5 144.78)
@@ -3971,16 +3971,6 @@
 			(type default)
 		)
 		(uuid "045a3684-4855-4231-921c-c26ba725de1c")
-	)
-	(wire
-		(pts
-			(xy 279.4 149.86) (xy 302.26 149.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0522c776-34ad-479f-b197-cc0d9a821da9")
 	)
 	(wire
 		(pts
@@ -5974,6 +5964,16 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 160.02) (xy 302.26 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43471901-8b48-4fe5-80cd-4c6de515c548")
+	)
+	(wire
+		(pts
 			(xy 124.46 87.63) (xy 124.46 97.79)
 		)
 		(stroke
@@ -6554,6 +6554,16 @@
 	)
 	(wire
 		(pts
+			(xy 279.4 149.86) (xy 302.26 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52f3e4bc-7bce-45eb-a775-bc8da4e0237a")
+	)
+	(wire
+		(pts
 			(xy 49.53 46.99) (xy 49.53 57.15)
 		)
 		(stroke
@@ -7121,6 +7131,16 @@
 			(type default)
 		)
 		(uuid "643982e6-203b-49df-9613-6ae66b6e5916")
+	)
+	(bus
+		(pts
+			(xy 276.86 152.4) (xy 276.86 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64788a21-530c-42c7-ab25-d8b2842af08c")
 	)
 	(wire
 		(pts
@@ -7761,16 +7781,6 @@
 			(type default)
 		)
 		(uuid "7cdcf89b-4ce7-4f0c-b829-dc8d074d0f17")
-	)
-	(wire
-		(pts
-			(xy 279.4 160.02) (xy 302.26 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d0a3c40-8dde-4ecd-b370-99f4c08e29e9")
 	)
 	(wire
 		(pts
@@ -8551,16 +8561,6 @@
 			(type default)
 		)
 		(uuid "994ab3e9-a81f-4c05-8f60-dc5eebbc86ce")
-	)
-	(bus
-		(pts
-			(xy 276.86 152.4) (xy 276.86 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "99ca2cc8-e617-4a7a-aea4-6f3be4a4dd05")
 	)
 	(wire
 		(pts
@@ -9521,6 +9521,16 @@
 			(type default)
 		)
 		(uuid "bb5d6a45-8c47-44da-92e4-52cb8e70e768")
+	)
+	(bus
+		(pts
+			(xy 276.86 162.56) (xy 276.86 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb6ab60a-e6a5-4618-8333-f95d5aa174df")
 	)
 	(wire
 		(pts
@@ -10571,16 +10581,6 @@
 			(type default)
 		)
 		(uuid "dae7f4d9-3b73-4485-8255-aedcae0de265")
-	)
-	(bus
-		(pts
-			(xy 276.86 162.56) (xy 276.86 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "daf3143d-b47c-40d5-bcb1-94472807de39")
 	)
 	(wire
 		(pts
@@ -11652,16 +11652,6 @@
 		)
 		(uuid "0f626753-ff6e-482d-a69d-82b3cdfbf5e3")
 	)
-	(label "COLOR.BLUE4"
-		(at 302.26 149.86 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "10055aad-58a4-4e63-9b26-2932dd2bf09c")
-	)
 	(label "COLOR.BLUE3"
 		(at 68.58 128.27 270)
 		(effects
@@ -11681,6 +11671,16 @@
 			(justify right bottom)
 		)
 		(uuid "1509faea-e625-402b-9fa4-eb45b36a8820")
+	)
+	(label "COLOR.RED6"
+		(at 302.26 149.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "156071d9-509f-4faf-a520-81936e9292d7")
 	)
 	(label "COLOR{RED[1..8] GREEN[1..8] BLUE[1..8]}"
 		(at 201.93 217.17 0)
@@ -11791,16 +11791,6 @@
 			(justify right bottom)
 		)
 		(uuid "3394b92a-ed06-4d42-a54a-84382798b76d")
-	)
-	(label "COLOR.RED6"
-		(at 302.26 160.02 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "37a7fbdb-5832-4249-92d9-a0ff8df245dc")
 	)
 	(label "COLOR.GREEN3"
 		(at 74.93 128.27 270)
@@ -12161,6 +12151,16 @@
 			(justify right bottom)
 		)
 		(uuid "bf59e238-2499-46e1-bcba-54d327d6b2ab")
+	)
+	(label "COLOR.BLUE4"
+		(at 302.26 160.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c0f13f1e-d348-4380-9a5e-dce1cca65028")
 	)
 	(label "COLOR.RED6"
 		(at 142.24 128.27 270)
